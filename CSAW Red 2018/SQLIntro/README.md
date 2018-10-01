@@ -30,8 +30,7 @@ Password:
 
 **Note** **```  --  ```** is an inline comment.  This ignores the rest of the SQL query.
 
-![screenshot](solution.PNG) <br />
-
+![screenshot](solution.PNG)
 ## Flag
 ```
 flag{j00'V3_pa223d_w38_s3cUri7Y_101}
