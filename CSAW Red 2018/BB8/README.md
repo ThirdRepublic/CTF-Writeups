@@ -17,7 +17,7 @@ Write up By
 Based on the challege description, I looked for the robots.txt file. <br/> 
 The file was found at https://red.csaw.io/robots.txt
 
-![Screenshot](/bb8.PNG)
+![Screenshot](bb8.PNG)
 
 ## Flag
 ```
