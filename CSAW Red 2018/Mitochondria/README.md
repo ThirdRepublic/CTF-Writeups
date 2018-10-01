@@ -20,14 +20,14 @@ The [documentation](https://support.google.com/docs/table/25273?hl=en) for Googl
 
 ## Solution
 The challenge gave a view only Google Sheet. First, I made a copy of the Google sheet and found addtional functions that needed to be completed. <br />
-[Screenshot](original.png) <br />
+![Screenshot](original.PNG) <br />
 A completed function yields an *O*.  For cell *B1* to be completed, cell *A1* had to contain the value 1. For instance, cell *B1*
 ```
 =IF($A$1 = 1, "O", "")
 ```
 
 After completing the rest of the functions, I obtained the flag.  <br />
-[Screenshot](solved.png) 
+![Screenshot](solved.PNG) 
 
 **Note** cell *B6* is dynamic, so try incrementing the value by 1 up to 6 for the answer.
 
