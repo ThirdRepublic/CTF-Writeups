@@ -9,7 +9,7 @@ Write up By
 ## Challenge Description
 > Can you find the flag in one of these files? Ctrl-F may not be enough.
 
-## Attached files
+## Attached Files
 - [hello.zip](hello.zip)
 
 ## Solution
