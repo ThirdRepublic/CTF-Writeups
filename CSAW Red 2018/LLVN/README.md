@@ -1,6 +1,6 @@
 # LLVN
 ![Category Misc](https://img.shields.io/badge/category-misc-lightgrey.svg?longCache=true&style=popout)
-![Score 200](https://img.shields.io/badge/score-200-brightgreen.svg?longCache=true&style=popout)
+![Score 200](https://img.shields.io/badge/score-200-yellow.svg?longCache=true&style=popout)
 ![47 solves](https://img.shields.io/badge/solves-47-%2317a2b8.svg?longCache=true&style=popout)
 
 Write up By
