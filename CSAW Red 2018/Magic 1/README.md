@@ -20,9 +20,9 @@ For an odd magic squares problem, the [Siamese method](https://en.wikipedia.org/
 [Read more](http://mathworld.wolfram.com/MagicSquare.html) about magic squares. 
 
 ## Solution
-The magic squares problem we were given is a 9 by 9. <br />
+The magic squares problem we were given is a 9 by 9. Parts of this magic square was already completed. <br />
 ![Screenshot](magic.PNG) <br />
-Parts of this magic square was already completed.  By observing the 1 placed in the center of the first row, I suspected that the Siamese method was used.  Following the Siamese method, I completed the magic square. A magic square generator such as https://www.dcode.fr/magic-square can be used to obtain the answer as well.
+By observing the 1 placed in the center of the first row, I suspected that the Siamese method was used.  Following the Siamese method, I completed the magic square. A magic square generator such as https://www.dcode.fr/magic-square can be used to obtain the answer as well.
 
 ## Flag
 ```
