@@ -13,7 +13,7 @@ Write up By
 Use the Chrome broswer as your tool.  Look in source of the page by clicking F12.  Right click and *Expand Recursively* in elements.
 Find a comment within the footer tag. <br />
 ![Screenshot](footer.PNG)  
-\<!--ZmxhZ3tuZXdfa3VuZ19mdV9rZW5ueX0=-->
+\<!--ZmxhZ3tuZXdfa3VuZ19mdV9rZW5ueX0=--> <br />
 Observe that the comment is base64 encoded.  Use https://www.asciitohex.com/ to decode it.
 
 ## Flag
