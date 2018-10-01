@@ -29,5 +29,5 @@ I completed the rest of the magic square with this obseravation.
 
 ## Flag
 ```
-flag{b_th3r3_0r_bee_squ4re}
+flag{y3r_a_wiz3rd_h4rry}
 ```
