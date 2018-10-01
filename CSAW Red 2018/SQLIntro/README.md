@@ -19,7 +19,7 @@ The usage of the **OR** statement allows for additional logic in the SQL query. 
 [SQLi Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
 ## Solution
-The webpage was given. <br />
+The webpage was given. <br /> <br />
 ![screenshot](page.PNG) <br />
 
 Username:
@@ -29,6 +29,8 @@ Password:
 > ' OR 1=1 --&nbsp;    
 
 **Note** **```  --  ```** is an inline comment.  This ignores the rest of the SQL query.
+
+![screenshot](solution.PNG) <br />
 
 ## Flag
 ```
