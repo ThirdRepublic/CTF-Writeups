@@ -25,9 +25,9 @@ The magic squares problem we were given is a 10 by 10. Parts of this magic squar
 By taking the sum of the diagonal, I knew that the magic total was 505.  
 By referencing the wiki diagram of Conway's LUX method, I figured out that each 2x2 block was reflected over the Y-axis. <br />
 ![Screenshot](wiki.PNG) <br />
-I completed the rest of the magic square with this obseravation.
+I completed the rest of the magic square with this observation.
 
 ## Flag
 ```
-flag{b_th3r3_0r_bee_squ4re}
+flag{y3r_a_wiz3rd_h4rry}
 ```
