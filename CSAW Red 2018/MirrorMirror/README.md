@@ -14,7 +14,8 @@ NOTE: You do NOT need nmap for this challenge
 ```
 
 ## Solution
-An IP address is given.  Using [Nmap](https://nmap.org/)
+An IP address is given.  What can you do with an IP address? <br />
+Using [Nmap](https://nmap.org/)
 > nmap 128.238.66.246
 
 ![screenshot](nmap.PNG) <br />
