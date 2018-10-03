@@ -41,7 +41,7 @@ for line in file:
 	output.write(binascii.unhexlify(''.join(line.split())))
 ```
 
-Another option to to use the bash command
+Another option to to use the Linux command, xxd
 ```
 xxd -r -p TheBigPicture.txt > output.PNG
 ```
