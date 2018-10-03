@@ -31,6 +31,8 @@ print input.replace("+","")
 ```
 ![screenshot](solution.PNG) <br />
 
+[PacketPacket Script](PacketPacket.py)
+
 ## Flag
 ```
 flag{this_is_a_test_flag_theres_a_lot_going_on_here}

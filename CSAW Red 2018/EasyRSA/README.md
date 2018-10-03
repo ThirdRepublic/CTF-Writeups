@@ -36,6 +36,8 @@ num = pow(c,d,n)
 print hex(num)[2:-1].decode("hex")
 ```
 
+[EasyRSA Script](EasyRSA.py)
+
 ## Flag
 ```
 flag{R0n_Adi_&_Leo_wou1d_b3_pr0ud}

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from pwn import *
 host_address = 'misc.chal.csaw.io'
 host_port = 10101

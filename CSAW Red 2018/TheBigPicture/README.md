@@ -53,6 +53,8 @@ The *-p* flag is to read plain hex instead of hex dump format with line number i
 Volia! There is the flag
 ![screenshot](output.PNG) <br />
 
+[TheBigPicture Script](TheBigPicture.py)
+
 ## Flag
 ```
 flag{File_Extr4Ct10n_is_pretty_c00L}
