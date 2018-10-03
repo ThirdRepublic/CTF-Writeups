@@ -50,6 +50,7 @@ xxd Creates a hex dump of a file <br />
 The *-r* flag is the reverse option.  It converts hex to binary. <br />
 The *-p* flag is to read plain hex instead of hex dump format with line number information 
 
+Volia! There is the flag
 ![screenshot](output.PNG) <br />
 
 ## Flag
