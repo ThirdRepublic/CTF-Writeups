@@ -44,6 +44,9 @@ Formerly High School Forensics, the Red Team Competition is organized by members
 
 [![MultiLingual](https://img.shields.io/badge/Multilingual-200-yellow.svg?longCache=true&style=for-the-badge)](/CSAW%20Red%202018/MultiLingual)
 
+[![UltraHyperMegaSonic](https://img.shields.io/badge/UltraHyperMegaSonic-300-orange.svg?longCache=true&style=for-the-badge)](/CSAW%20Red%202018/UltraHyperMegaSonic)
+[![UltraHyperMegaSonic](https://img.shields.io/badge/*-Solved%20Post%20Competition-%23f46dc9.svg?longCache=true&style=for-the-badge)](/CSAW%20Red%202018/UltraHyperMegaSonic)
+
 ## Misc
 [![Misframed](https://img.shields.io/badge/misframed-50-brightgreen.svg?longCache=true&style=for-the-badge)](/CSAW%20Red%202018/Misframed)
 
