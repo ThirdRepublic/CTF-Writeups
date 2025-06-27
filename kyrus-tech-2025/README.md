@@ -28,7 +28,7 @@ a3 × b3 × c × d × e2 = 914760
 ```
 
 ## Challenge 01
-[![Crypto](https://img.shields.io/badge/Challenge-Crypto-Green.svg?longCache=true&style=for-the-badge)](01/READ.md)  
+[![Crypto](https://img.shields.io/badge/Challenge-Crypto-Green.svg?longCache=true&style=for-the-badge)](01)  
 Cracking Rig goes BRRRRRRRRRRRRRRRRR! 
 
 ```
@@ -37,7 +37,7 @@ Download and solve the puzzle below.
 >> [puzzle.txt](01/puzzle.txt)
 
 ## Challenge 02
-[![Crypto](https://img.shields.io/badge/Challenge-Crypto-Green.svg?longCache=true&style=for-the-badge)](02/READ.md)  
+[![Crypto](https://img.shields.io/badge/Challenge-Crypto-Green.svg?longCache=true&style=for-the-badge)](02)  
 
 ```
 Solve:
@@ -51,7 +51,7 @@ bc4d7bc75fc81e9eec38ed5d671a7a572c5f1b5d3e5423668d7985ec89cf6cf5b
 ```
 
 ## Challenge 03
-[![Forensics](https://img.shields.io/badge/Challenge-Forensics-Green.svg?longCache=true&style=for-the-badge)](03/READ.md)  
+[![Forensics](https://img.shields.io/badge/Challenge-Forensics-Green.svg?longCache=true&style=for-the-badge)](03)  
 :eyes: Peek-a-flag? :ghost: Did you find me yet? 
 
 ```
